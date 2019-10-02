@@ -36,4 +36,9 @@ Projeto de agenda para matéria de engenharia de software
     
   * **3. Estrutura**
     
+    Os diagramas podem ser encontrados no [github](https://github.com/Xenork/Projeto-de-Agenda/tree/master/Diagramas) são ele :  
+    [Caso de uso](https://github.com/Xenork/Projeto-de-Agenda/blob/master/Diagramas/Caso-de-uso.jpg).  
+    [Diagrama de classes](https://github.com/Xenork/Projeto-de-Agenda/blob/master/Diagramas/Classes.jpg).
+    [Fluxograma]()
+    
     
