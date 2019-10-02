@@ -29,4 +29,10 @@ Escolhido urgência o operador recebera o horário mais próximo para responder 
     
   * **2- Tecnologia**
   
+    Tecnologias usadas através do Docker:  
+    ~docker pull mysql  
+    ~docker pull janlo/agendav
+    
   * **3- Estrutura**
+    
+    
