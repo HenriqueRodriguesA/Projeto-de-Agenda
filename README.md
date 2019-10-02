@@ -9,8 +9,10 @@ Projeto de agenda para matéria de engenharia de software
 
   * **1- Visual**
 
-     A pagina inicial desse sistema deve mostrar que tipo de agendamento esta sendo feito (normal ou urgência).Escolhido normal o operador do sistema terá acesso aos horários disponíveis,  após feito a escolha do horário basta preencher os dados pessoas do cliente e os dados do veiculo.
-Escolhido urgência o operador recebera o horário mais próximo para responder essa urgência.
+     A pagina inicial desse sistema deve mostrar que tipo de agendamento esta sendo feito (normal ou urgência).
+     Escolhido normal o operador do sistema terá acesso aos horários disponíveis,  após feito a escolha do 
+     horário basta preencher os dados pessoas do cliente e os dados do veiculo.Escolhido urgência o operador 
+     recebera o horário mais próximo para responder essa urgência.
 
   * **2- Tecnologia**
     
