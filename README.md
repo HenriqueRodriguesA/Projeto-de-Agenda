@@ -1,7 +1,7 @@
 # Projeto-de-Agenda
 Projeto de agenda para matéria de engenharia de software
 
-* **Requesitos**
+**Requesitos**
 
   * **Mini Mundo :** Uma oficina mecanica que especializada em uma marca de carro.
 
@@ -21,7 +21,7 @@ Escolhido urgência o operador recebera o horário mais próximo para responder 
     
     O sistema vai ser operado por uma pessoa da oficina, que recebera ligações pedindo agendamento seja esse normais ou de urgência. Caso seja de urgência após feito o agendamento ele recebera uma opção de avisar o pessoal da oficina caso o horário agendado seja no dia de hoje.
   
-* **Projeto**
+**Projeto**
 
   * **1- Visual**
   
