@@ -25,6 +25,8 @@ Escolhido urgência o operador recebera o horário mais próximo para responder 
 
   * **1- Visual**
   
+    Você pode encontrar o protótipo das telas no próprio [github](https://github.com/Xenork/Projeto-de-Agenda/tree/master/Telas) ou a versão interativa do [Marvelapp](https://marvelapp.com/chje9a0/screen/62034147).
+    
   * **2- Tecnologia**
   
   * **3- Estrutura**
